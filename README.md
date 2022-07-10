@@ -11,7 +11,7 @@ During my M.Sc. I explored the relationship between structure and function in a 
 ### Coding :technologist:
 [![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpalma-espinosa&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Currently, I mostly develop custom software for my research using
+I mostly develop custom software for my research using
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
