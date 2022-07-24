@@ -17,7 +17,7 @@ I mostly develop custom software for my research using
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-For documenting I use ![Amaranthus](https://raw.githubusercontent.com/jpalma-espinosa/Amaranthus/main/img/logo500px.png)
+For documenting I use ![Amaranthus](https://github.com/jpalma-espinosa/Amaranthus/blob/main/img/logo200px.png?raw=true)
 
 I will start also my certification as Full Stack dev using
 
