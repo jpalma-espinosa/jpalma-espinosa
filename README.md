@@ -3,7 +3,7 @@
 Hello there, and welcome to my little github space. I am Javier, from Chile. Currently based near the ocean at Viña del Mar.
 
 ### About :scientist: (he/him)
-I'm a third year Ph.D. student at [Universidad de Valparaíso](https://www.uv.cl), working in Computational Neuroscience in the lab of [Dr. Patricio Orio](https://cinv.uv.cl/members/porio/#1471845166496-e2aff5d2-8c5be2fa-fdaa).  Also, I am working as a research assistant in the lab of [Dr. Dura-Bernal](http://dura-bernal.org/home), by extending the functionalities of [NetPyNe](http://www.netpyne.org/), a python-enhanced version for [NEURON](https://www.neuron.yale.edu/neuron/) simulator. Additionally, I am an adjunct instructor of the Engineering Department at [Universidad Andrés Bello](https://www.unab.cl).
+I'm a Ph.D. student at [Universidad de Valparaíso](https://www.uv.cl), working in Computational Neuroscience in the lab of [Dr. Patricio Orio](https://cinv.uv.cl/members/porio/#1471845166496-e2aff5d2-8c5be2fa-fdaa).  Also, I am working as a research assistant in the lab of [Dr. Dura-Bernal](http://dura-bernal.org/home), by extending the functionalities of [NetPyNe](http://www.netpyne.org/), a python-enhanced version for [NEURON](https://www.neuron.yale.edu/neuron/) simulator. Additionally, I am an adjunct instructor of the Engineering Department at [Universidad Andrés Bello](https://www.unab.cl).
 
 ### Science :brain:
 During my M.Sc. I explored the relationship between structure and function in a network model of the brain.  Currently, I am working in a **computational model of selective attention, inspired in the insect brain.**
