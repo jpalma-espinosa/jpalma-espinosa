@@ -21,10 +21,6 @@ For documenting I use [my custom cookiecutter template](https://github.com/jpalm
 
 ![Amaranthus](https://github.com/jpalma-espinosa/Amaranthus/blob/main/img/logo200px.png?raw=true)
 
-I will start also my certification as Full Stack dev using
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Random Stuff
 
